@@ -1,0 +1,10 @@
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\bin\Debug\KeyboardSimulator_Server.exe
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\bin\Debug\KeyboardSimulator_Server.pdb
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.Form1.resources
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.Properties.Resources.resources
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.csproj.GenerateResource.Cache
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.exe.licenses
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.exe
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\obj\Debug\KeyboardSimulator_Server.pdb
+E:\Hoc tap\Tin hoc\Lap trinh\Code\Visual Studio\TU XU\KeyboardSimulator_Server\KeyboardSimulator_Server\bin\Debug\MouseKeyboardActivityMonitor.dll
